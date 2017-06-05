@@ -1,0 +1,19 @@
+---
+:source:
+  :path: test
+  :file: test_triangle.c
+:successes:
+- :test: test_sortSidesOfTriangle
+  :line: 11
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout:
+- short1 3
+- short2 1
+- long 5
